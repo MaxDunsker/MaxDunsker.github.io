@@ -1,0 +1,1 @@
+My first GitHub collaboration project was all about cloning, branching, and merging. It was frustrating at times but I appreciated the ability to explore GitHub collaboration in a low-risk setting. I uploaded some information about myself, uploaded my code, and created a website. 
