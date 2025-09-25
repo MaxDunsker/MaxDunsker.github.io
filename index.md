@@ -2,6 +2,8 @@
 
 
 
+
+
 \### About me
 
 
@@ -11,6 +13,8 @@ I grew up around Albany, New York and moved out to Los Angeles to attend UCLA. D
 
 
 I am interested in using quantitative and qualitative research to inform and evaluate policy at the state and local scales, with a focus on poverty and inequality, community development, housing issues, and social welfare. In my free time, I enjoy cooking meals for my friends and family, trying to make the perfect cup of drip coffee, volunteering around food access issues, doing crossword puzzles, and getting into nature.
+
+
 
 
 
