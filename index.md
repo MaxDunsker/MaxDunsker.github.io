@@ -1,4 +1,4 @@
-![Headshot](Dunsker.jpeg "Headshot")
+![Headshot](Dunsker.jpg "Headshot")
 
 
 
